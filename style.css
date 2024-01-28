@@ -90,7 +90,7 @@ button:hover{
 } */
 @media only screen and (max-width: 600px) {
    .container{
-    height: 50vh;
+    height: 50%;
  
 }
     .buttonandimage 
