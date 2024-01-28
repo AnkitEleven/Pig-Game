@@ -89,6 +89,10 @@ button:hover{
     opacity: 0.5; 
 } */
 @media only screen and (max-width: 600px) {
+   .container{
+    height: 50vh;
+ 
+}
     .buttonandimage 
 {
     width: 100%;
