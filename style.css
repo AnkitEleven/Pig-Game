@@ -129,6 +129,15 @@ button
 {
     background-color: rgb(243, 241, 104);
 }
+    .score{
+    margin-top: 20px;
+  
+}
+.currentscore
+{
+    margin-top: 30px;
+   
+}
 
   }
   
