@@ -46,7 +46,7 @@ rolldice.addEventListener("click", function() {
 holdButton.addEventListener("click", function() 
 {
     sum[currentPlayer] += score;
-    if(sum[currentPlayer] >=20)
+    if(sum[currentPlayer] >=100)
     {
         document.querySelector(`.score-player-${currentPlayer}`).textContent = sum[currentPlayer];
         document.querySelector(`.player-${currentPlayer}`).classList.add("won");
